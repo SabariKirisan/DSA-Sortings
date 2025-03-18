@@ -1,4 +1,4 @@
-## selection sort (c++)
+## Selection sort (c++)
 Given an array arr, use selection sort to sort arr[] in increasing order.
 
 Input: arr[] = [4, 1, 3, 9, 7]
