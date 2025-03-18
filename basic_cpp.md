@@ -36,6 +36,8 @@ public class Main
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/c9d58f12-d25a-4f6d-a62a-9ab1b785e555)
+<img width="273" alt="image" src="https://github.com/user-attachments/assets/51e7c322-5f54-4a90-a09c-dfd6409e5238" />
+
 
 ## Problem-2:
 Write a program to check whether a triangle can be formed with the given values for the angles.
