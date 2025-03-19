@@ -24,6 +24,9 @@ class Solution {
     }
 };
 ```
+- Time complexity : O(n2)
+
+- Space complexity : O(1)
 
 ## OUTPUT
 Output: [1, 3, 4, 7, 9]
