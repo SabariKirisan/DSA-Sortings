@@ -2,6 +2,7 @@
 Given an array, arr[]. Sort the array using bubble sort algorithm.
 
 Input: arr[] = [4, 1, 3, 9, 7]
+
 Output: [1, 3, 4, 7, 9]
 
 ## PROGRAM:(Main.cpp)
