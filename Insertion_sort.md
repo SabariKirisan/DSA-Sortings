@@ -29,6 +29,7 @@ class Solution {
 ```
 ## Complexity
 - Time complexity : Worst-case and Average-case O(n 2 )
+                    best case O(n)
 
 - Space complexity : O(1)
 
