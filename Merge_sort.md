@@ -53,6 +53,10 @@ class Solution {
     }
 };
 ```
+## Complexity
+- Time complexity : O(nlogn)
+
+- Space complexity : O(n)
 
 ## OUTPUT
 Output: [1, 3, 4, 7, 9]
