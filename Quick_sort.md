@@ -43,5 +43,14 @@ class Solution {
 };
 ```
 
+## Complexity
+- Time complexity :Best-case and Average-case Time Complexity: O(nlogn)
+
+Worst-case Time Complexity: O(n2) (when the pivot is poorly chosen)
+
+- Space complexity : Best/Average case: O(logn) (due to recursion depth)
+
+Worst case: O(n) (unbalanced recursion)
+
 ## OUTPUT
 Output: [1, 3, 4, 7, 9]
