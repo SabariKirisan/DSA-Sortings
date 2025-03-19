@@ -34,6 +34,10 @@ class Solution {
     }
 };
 ```
+## Complexity
+- Time complexity : Worst-case and Average-case O(n 2 )
+
+- Space complexity : O(1)
 
 ## OUTPUT
 Output: [1, 3, 4, 7, 9]
